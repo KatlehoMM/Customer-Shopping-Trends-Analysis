@@ -1,6 +1,6 @@
 # Customer Shopping Trends Analysis
 ## Project Overview
-This analysis  is based on customer shopping behaviour, the trends that occur over a period of 6 months. The analysis looks at the patterns that influence customer shopping behaviour, which age group generates a lot of revenue and which day do the customer prefer to purchase their items. Which style of shopping is being prefered by the different age groups, does the customer prefer to shop during discount hours or sale days.
+This analysis  is based on customer shopping behaviour, the trends that occur over a period of 6 months. Which day of the week and month generates a lot of renevue by different age groups, and which age group prefer which type of pay method and the shopping style the prefer to do.
 ## Summary of findings
 ### Revenue per Day and Month by Age Bucket
 * 18–25 age group contributes 30% of daily revenue, peaking on weekends.
@@ -24,6 +24,18 @@ This analysis  is based on customer shopping behaviour, the trends that occur ov
 * Incentivize high spenders with loyalty rewards and premium shipping perks
 * Expand digital wallet options to support the growing preference for cashless payments
 * Introduce targeted free shipping promotions for younger customers to boost repeat sales
+## Tools Used 
+### Coding Platforms 
+* Snowflake
+* MySQL Workbench
+* Google BigQuery
+### Data Visualisation 
+* Microsoft Excel
+### Presentation & Reporting
+* Miro
+* Canva
+* Microsoft Powerpoint
+* Google Looker Studio
 * Leverage end-of-month demand by launching limited-time offers for high spenders
 
 
