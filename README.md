@@ -24,6 +24,7 @@ This analysis  is based on customer shopping behaviour, the trends that occur ov
 * Incentivize high spenders with loyalty rewards and premium shipping perks
 * Expand digital wallet options to support the growing preference for cashless payments
 * Introduce targeted free shipping promotions for younger customers to boost repeat sales
+* Leverage end-of-month demand by launching limited-time offers for high spenders
 ## Tools Used 
 ### Coding Platforms 
 * Snowflake
@@ -36,7 +37,7 @@ This analysis  is based on customer shopping behaviour, the trends that occur ov
 * Canva
 * Microsoft Powerpoint
 * Google Looker Studio
-* Leverage end-of-month demand by launching limited-time offers for high spenders
+
 
 
 
